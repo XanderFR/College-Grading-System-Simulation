@@ -1,1 +1,2 @@
 # College-Grading-System-Simulation
+The project was a Java web application that would allow users to see, store, update, and delete information on students, teachers, courses, and course results in Oracle Database tables. The project incorporated the following technologies: Java, Java Server Pages, Java Server Pages Standard Tag Library, HTML5, CSS3, Bootstrap, Spring, Spring MVC, Hibernate, and the Oracle Database. The project used the Maven build automation tool and ran in an Apache Tomcat web server.

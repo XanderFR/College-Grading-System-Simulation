@@ -165,7 +165,7 @@
     <footer style = "margin-top: 1em;">
         <div class = "container">
             <p style = "text-align: center;">&copy; DAO Final Project 2020</p>
-            <p style = "text-align: center;">Alexander Dave Flores Respicio 201909200</p>
+            <p style = "text-align: center;">Alexander Dave Flores Respicio </p>
         </div>
     </footer>
 </body>
